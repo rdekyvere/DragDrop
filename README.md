@@ -5,3 +5,5 @@ Using:
 jQuery v1.5
 jQuery UI 1.8.9
 Bootstrap
+
+View demo here: http://codepen.io/capaly/pen/ZLQbRM
