@@ -1,5 +1,5 @@
 A simple jQuery drag and drop example optimized for touch screens but fully functional on the desktop as well.
-Data is save to localStorage.
+Data is saved to localStorage.
 
 Using:
 jQuery v1.5
